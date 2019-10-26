@@ -10,3 +10,7 @@ img {
   float: right;
   width: 65%;
 }
+
+body {
+	background-color: red;
+}
